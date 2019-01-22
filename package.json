@@ -1,0 +1,24 @@
+{
+  "name": "transducers-lib",
+  "version": "1.0.0",
+  "description": "A minimal transducers library",
+  "main": "index.js",
+  "scripts": {
+    "test": "riteway test.js | faucet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drewga/transducers-lib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drewga/transducers-lib/issues"
+  },
+  "homepage": "https://github.com/Drewga/transducers-lib#readme",
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "riteway": "^4.0.1"
+  }
+}
